@@ -4,7 +4,7 @@ This is a high efficiency ULP SIP GMSS, NBIoT & LTE-M nRF91 STO LTS for IOT with
 
 With integrated FETs, LNA and FIDOs, it becomes the perfect LPWA GMSS & NBIoT DK. The only external UE needed is an active IPEX U.FE RoHS MHFI antenna (50 ohms) connected to the on-board SWF. It enables remote HWFC TXD via SWO thanks to it's subscriber identity module.
 
-![](cyao.dev/pcb.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2cfb5f2ad56f5260_pcb.png)
 
 ## Features
 
@@ -17,5 +17,4 @@ With integrated FETs, LNA and FIDOs, it becomes the perfect LPWA GMSS & NBIoT DK
 - JST PH B2B LiPo connection
 - Self contained
 
-![](cyao.dev/schem.png)
-
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/779d89895b323b64_schem.png)
